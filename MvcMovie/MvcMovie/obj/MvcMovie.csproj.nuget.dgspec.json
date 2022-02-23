@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lisie\\Documents\\Trabajo\\Net\\Visual Studio\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {}
+    "C:\\Users\\lisie\\Documents\\Trabajo\\Net\\Visual Studio\\no\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lisie\\Documents\\Trabajo\\Net\\Visual Studio\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {
+    "C:\\Users\\lisie\\Documents\\Trabajo\\Net\\Visual Studio\\no\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lisie\\Documents\\Trabajo\\Net\\Visual Studio\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "C:\\Users\\lisie\\Documents\\Trabajo\\Net\\Visual Studio\\no\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\Users\\lisie\\Documents\\Trabajo\\Net\\Visual Studio\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "C:\\Users\\lisie\\Documents\\Trabajo\\Net\\Visual Studio\\no\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\lisie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lisie\\Documents\\Trabajo\\Net\\Visual Studio\\MvcMovie\\MvcMovie\\obj\\",
+        "outputPath": "C:\\Users\\lisie\\Documents\\Trabajo\\Net\\Visual Studio\\no\\MvcMovie\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lisie\\AppData\\Roaming\\NuGet\\NuGet.Config",
